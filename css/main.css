@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Asap|Maven+Pro');
+ html, body {
+ 	height: 100%;
+ 	width: 100%;
+ 	margin: 0;
+ }
+
+ p#title {
+ 	font-family: 'Asap', sans-serif;
+ 	text-align: center;
+ 	font-size: 3em;
+ }
+
+ p {
+ 	font-family: 'Maven Pro', sans-serif;
+ 	text-align: center;
+ }
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; /*1fr 1fr 1fr*/
+    grid-gap: 1em;
+}
+
+.blue {
+	background-color: #1be7ff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Asap', sans-serif;
+	font-size: 2em;
+	height: 400px;
+}
+
+.green {
+	background-color: #6eeb83;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Asap', sans-serif;
+	font-size: 2em;
+	height: 400px;
+}
+
+.yellow {
+	background-color: #e4ff1a;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Asap', sans-serif;
+	font-size: 2em;
+	height: 400px;
+}
+
+.orange {
+	background-color: #ffb800;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Asap', sans-serif;
+	font-size: 2em;
+	height: 400px;
+}
+
+.red {
+	background-color: #ff5714;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Asap', sans-serif;
+	font-size: 2em;
+	height: 400px;
+}
+
+#day1:hover {
+	background-image: url();
+}
+
+
+
