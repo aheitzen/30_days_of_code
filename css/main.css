@@ -88,5 +88,28 @@
 	cursor: pointer;
 }
 
+#day2:hover {
+	background-image: url("../img/day2.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	cursor: pointer;
+}
+
+#day3:hover {
+	background-image: url("../img/day3.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	cursor: pointer;
+}
+
+#day4:hover {
+	background-image: url("../img/day4.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	cursor: pointer;
+}
 
 
