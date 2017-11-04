@@ -112,4 +112,20 @@
 	cursor: pointer;
 }
 
+#day5:hover {
+	background-image: url("../img/day5.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	cursor: pointer;
+}
+
+#day6:hover {
+	background-image: url("../img/day6.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	cursor: pointer;
+}
+
 
