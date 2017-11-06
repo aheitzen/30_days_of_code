@@ -128,4 +128,12 @@
 	cursor: pointer;
 }
 
+#day7:hover {
+	background-image: url("../img/day7.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	cursor: pointer;
+}
+
 
