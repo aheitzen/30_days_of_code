@@ -136,4 +136,28 @@
 	cursor: pointer;
 }
 
+#day8:hover {
+	background-image: url("../img/day8.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	cursor: pointer;
+}
+
+#day9:hover {
+	background-image: url("../img/day9.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	cursor: pointer;
+}
+
+#day10:hover {
+	background-image: url("../img/day10.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	cursor: pointer;
+}
+
 
