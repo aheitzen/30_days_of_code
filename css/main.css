@@ -208,4 +208,20 @@
 	cursor: pointer;
 }
 
+#day17:hover {
+	background-image: url("../img/day17.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	cursor: pointer;
+}
+
+#day18:hover {
+	background-image: url("../img/day18.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	cursor: pointer;
+}
+
 
