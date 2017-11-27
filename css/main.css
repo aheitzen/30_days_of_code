@@ -288,3 +288,11 @@
 	cursor: pointer;
 }
 
+#day27:hover {
+	background-image: url("../img/day27.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	cursor: pointer;
+}
+
