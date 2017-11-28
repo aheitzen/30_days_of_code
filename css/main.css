@@ -304,3 +304,11 @@
 	cursor: pointer;
 }
 
+#day29:hover {
+	background-image: url("../img/day29.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+	cursor: pointer;
+}
+
